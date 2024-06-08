@@ -125,7 +125,7 @@
     
     .top-middle-image {
         position: absolute;
-        top: 10px;
+        top: 0px;
         left: 50%;
         transform: translateX(-50%);
         width: 15.33%;
